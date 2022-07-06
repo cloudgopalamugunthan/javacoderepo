@@ -1,0 +1,8 @@
+This is first code
+This is second code
+<<<<<<< HEAD
+This is fourth code
+||||||| d4873a9
+=======
+This is third code
+>>>>>>> dev
